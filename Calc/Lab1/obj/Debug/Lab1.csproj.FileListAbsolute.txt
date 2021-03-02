@@ -1,0 +1,20 @@
+E:\Progect c#\Calc\Lab1\bin\Debug\Lab1.exe.config
+E:\Progect c#\Calc\Lab1\bin\Debug\Lab1.exe
+E:\Progect c#\Calc\Lab1\bin\Debug\Lab1.pdb
+E:\Progect c#\Calc\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\Progect c#\Calc\Lab1\obj\Debug\Lab1.Calculator.resources
+E:\Progect c#\Calc\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\Progect c#\Calc\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\Progect c#\Calc\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\Progect c#\Calc\Lab1\obj\Debug\Lab1.exe
+E:\Progect c#\Calc\Lab1\obj\Debug\Lab1.pdb
+E:\ProgectC#\Calc\Lab1\bin\Debug\Lab1.exe.config
+E:\ProgectC#\Calc\Lab1\bin\Debug\Lab1.exe
+E:\ProgectC#\Calc\Lab1\bin\Debug\Lab1.pdb
+E:\ProgectC#\Calc\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+E:\ProgectC#\Calc\Lab1\obj\Debug\Lab1.Calculator.resources
+E:\ProgectC#\Calc\Lab1\obj\Debug\Lab1.Properties.Resources.resources
+E:\ProgectC#\Calc\Lab1\obj\Debug\Lab1.csproj.GenerateResource.cache
+E:\ProgectC#\Calc\Lab1\obj\Debug\Lab1.csproj.CoreCompileInputs.cache
+E:\ProgectC#\Calc\Lab1\obj\Debug\Lab1.exe
+E:\ProgectC#\Calc\Lab1\obj\Debug\Lab1.pdb
